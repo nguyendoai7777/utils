@@ -1,0 +1,1 @@
+export { typeCheck, ReturnTypeCheck } from './operators/type-check';
